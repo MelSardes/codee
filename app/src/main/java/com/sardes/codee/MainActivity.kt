@@ -250,6 +250,7 @@ fun App() {
                                     answeredQuestions.add(currentQuestion)
                                     questionsStatus[progressNumber] = ProgressStatus.Current
                                     progressNumber++
+                                    currentQuestion = QuestionsDataProvider.questions.random()
 
 /*
                                     currentQuestion = QuestionsDataProvider.questions.random()
@@ -312,6 +313,7 @@ fun App() {
                                 progressNumber = 1
                                 isFinished = false
                                 answered = -1
+                                score = 0
                             }
                         ) {
                             Text(text = "Recommencer")
