@@ -57,4 +57,4 @@ Profitez (ou pas) de l'expérience ! Si vous avez des commentaires, nous ne les 
 
 ---
 
-*Note : Ce fichier README est purement satirique et ne reflète pas nécessairement la qualité de l'application. Nous encourageons le développement d'applications de haute qualité, même si elles ont des bugs occasionnels.*
+*Note : Ce fichier README est purement satirique et ne reflète pas nécessairement la qualité de l'application. J'encourageons le développement d'applications de haute qualité, même si elles ont des bugs occasionnels.*
