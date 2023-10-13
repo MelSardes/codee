@@ -1,24 +1,34 @@
 # CODEE - Version 0.1
 
-## Attention : C'est ce que vous appelez un "chef-d'œuvre" !
+![GitHub](https://img.shields.io/github/license/VotreNom/QuizPourProgrammeurs)
+![GitHub stars](https://img.shields.io/github/stars/VotreNom/QuizPourProgrammeurs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/VotreNom/QuizPourProgrammeurs?style=social)
+
+
+<div align="center">
+  <img src="quiz_logo.jpg" alt="Logo du Quiz" width="200">
+</div>
+
 
 ### À propos de l'application
 
-Bienvenue dans le monde époustouflant de Codee. Vous pensiez que toutes les applications de quiz étaient superbes ? Détrompez-vous ! Celle-ci est... spéciale.
+Bienvenue dans le monde 🚀époustouflant🚀 de Codee. Vous pensiez que toutes les applications de quiz étaient superbes ? Détrompez-vous ! Celle-ci est... spéciale.
+Par [Mel Sardes](https://github.com/MelSardes) ! 😎
 
 ### Caractéristiques exceptionnelles
 
-- Quiz sans code, sans images, sans rien de visuel. C'est comme lire un manuel technique de 1997, mais sans les images ASCII !
-- Vous avez 10 questions incroyablement basiques pour tester vos compétences en programmation. Vous pourriez probablement répondre à tout cela en dormance.
-- Bugs inclus, gratuitement. Nous avons choisi de ne pas les corriger pour pimenter votre expérience. Vous êtes les bienvenus.
-- Développée par un développeur pas du tout renommé qui a appris le codage en cherchant des réponses sur Stack Overflow.
+- 📜 Quiz sans code, sans images, sans rien de visuel. C'est comme lire un manuel technique de 1997, mais sans les images ASCII !
+- 💡 Vous avez 10 questions incroyablement basiques pour tester vos compétences en programmation. Vous pourriez probablement répondre à tout cela en dormance.
+- 🐞 Bugs inclus, gratuitement. Nous avons choisi de ne pas les corriger pour pimenter votre expérience. Vous êtes les bienvenus.
+- 💻 Développée par un développeur pas du tout renommé qui a appris le codage en cherchant des réponses sur Stack Overflow(pendant longtemps, tellement longtemps qu'il y a même rédigé des réponses).
 
 ### Comment ça marche ?
 
-1. Clonez ce dépôt.
-2. Ouvrez l'application avec votre émulateur Android préféré.
-3. Répondez à 10 questions. Assurez-vous d'avoir Google à portée de main, au cas où.
-4. Admirez les erreurs de conception qui sont plus nombreuses que les variables non initialisées dans un programme Java.
+1. Installez cette merveille sur votre appareil Android.
+2. Ouvrez l'application.
+3. Lisez la question (oui, il n'y a que du texte !).
+4. Essayez de répondre correctement. Attention, si vous perdez, vous pourriez être forcé à prendre une tasse de café pour recharger votre cerveau.
+5. Répétez jusqu'à ce que vous deveniez un génie (ou que votre café préféré soit épuisé).
 
 ### Contributions
 
