@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="Codee Main Logo 800x600.jpg" alt="Logo du Quiz" width="200">
+  <img src="Codee Main Logo 800x600.jpg" alt="Logo du Quiz" width="800">
 </div>
 
 
@@ -34,7 +34,7 @@ Par [Mel Sardes](https://github.com/MelSardes) ! 😎
 
 Vous pouvez télécharger la dernière version de l'application directement depuis le lien ci-dessous :
 
-[![Télécharger l'application](https://img.shields.io/badge/Télécharger%20l'Application-Ici-brightgreen)](lien_de_téléchargement)
+[![Télécharger l'application](https://img.shields.io/badge/Télécharger%20l'Application-Ici-brightgreen)](codee.apk)
 
 
 ### Contributions
