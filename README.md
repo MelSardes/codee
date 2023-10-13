@@ -1,8 +1,8 @@
 # CODEE - Version 0.1
 
-![GitHub](https://img.shields.io/github/license/VotreNom/QuizPourProgrammeurs)
-![GitHub stars](https://img.shields.io/github/stars/VotreNom/QuizPourProgrammeurs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/VotreNom/QuizPourProgrammeurs?style=social)
+![GitHub](https://img.shields.io/github/license/MelSardes/QuizPourProgrammeurs)
+![GitHub stars](https://img.shields.io/github/stars/MelSardes/QuizPourProgrammeurs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MelSardes/QuizPourProgrammeurs?style=social)
 
 
 <div align="center">
