@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="quiz_logo.jpg" alt="Logo du Quiz" width="200">
+  <img src="Codee Main Logo 800x600.jpg" alt="Logo du Quiz" width="200">
 </div>
 
 
@@ -29,6 +29,13 @@ Par [Mel Sardes](https://github.com/MelSardes) ! 😎
 3. Lisez la question (oui, il n'y a que du texte !).
 4. Essayez de répondre correctement. Attention, si vous perdez, vous pourriez être forcé à prendre une tasse de café pour recharger votre cerveau.
 5. Répétez jusqu'à ce que vous deveniez un génie (ou que votre café préféré soit épuisé).
+
+### Téléchargement
+
+Vous pouvez télécharger la dernière version de l'application directement depuis le lien ci-dessous :
+
+[![Télécharger l'application](https://img.shields.io/badge/Télécharger%20l'Application-Ici-brightgreen)](lien_de_téléchargement)
+
 
 ### Contributions
 
