@@ -6,7 +6,11 @@
 
 
 <div align="center">
-  <img src="Codee Main Logo 800x600.jpg" alt="Logo du Quiz" width="800">
+  <img src="Codee Main Logo.jpg" alt="Logo de Codee" width="800">
+</div>
+
+<div align="center">
+  <img src="codee screenshots.png" alt="Screenshots de Codee" width="800">
 </div>
 
 
